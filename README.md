@@ -20,5 +20,3 @@ These blog post are video recordings that complement the presentation ("Hooked o
 <li><a href="http://rimblas.com/blog/2016/07/video-part-3-adding-styling-with-css/">APEX Classic Report Named Column Templates &mdash; Part 3: Adding styling with CSS</a></li>
 <li><a href="http://rimblas.com/blog/2016/08/video-part-4-implementing-drag-drop-functionality/">APEX Classic Report Named Column Templates &mdash; Part 4: Implementing Drag &amp; Drop functionality</a></li>
 </ul>
-
-
