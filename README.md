@@ -10,7 +10,7 @@ Demo app for presentation "Hooked on Classic (Reports): Learn tips &amp; techniq
 
 ## Videos
 
-These blog post are video recordings that complement the presentation ("Hooked on Classic (Reports): Learn tips and techniques to make them sing")[http://slides.com/rimblas/hooked-on-classic-reports]. Watch as I build, explain, and then extend the Simple Todo demo.
+These blog post are video recordings that complement the presentation "[Hooked on Classic (Reports): Learn tips and techniques to make them sing](http://slides.com/rimblas/hooked-on-classic-reports)". Watch as I build, explain, and then extend the Simple Todo demo.
 
 <ul>
 <li><a href="http://rimblas.com/blog/2016/06/apex-classic-report-named-column-templates/">APEX Classic Report Named Column Templates &mdash; Part 1: Building the demo</a>
