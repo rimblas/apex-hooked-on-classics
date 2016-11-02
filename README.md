@@ -1,5 +1,5 @@
 # apex-hooked-on-classics
-Demo app for presentation "Hooked on Classic (Reports): Learn tips &amp; techniques to make them sing"
+Demo app for presentation "[Hooked on Classic (Reports): Learn tips and techniques to make them sing](http://slides.com/rimblas/hooked-on-classic-reports)"
 
 ## TOC
 * Page 210: Generic Column Template w/Condition
